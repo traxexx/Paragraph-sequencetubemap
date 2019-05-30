@@ -2,7 +2,7 @@
 
 This is the visualization tool for read alignments to the graph, on our graph-based variant genotyper, [Paragraph](https://github.com/Illumina/paragraph)
 
-For a demo of usage, please check [demo](instructions.md).
+For a demo of usage, please check [demo](demo/instructions.md).
 
 For visualization, please use this link:
 
