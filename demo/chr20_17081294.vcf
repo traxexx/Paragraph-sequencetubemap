@@ -1,0 +1,9 @@
+##fileformat=VCFv4.2
+##fileDate=20190103
+##contig=<ID=chr20,length=64444167>
+##FILTER=<ID=PASS,Description="All filters passed">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the variant">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##bcftools_viewVersion=1.9+htslib-1.9
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	REF	ALT
+chr20	17081294	unknown	TTTATTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTATTTTA	T	.	PASS	.	GT	0	1
